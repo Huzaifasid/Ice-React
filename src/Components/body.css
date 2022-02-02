@@ -1,0 +1,17 @@
+.imgDiv{
+    display: grid;
+    justify-content: center;
+}
+.mainDiv{
+    background-color: #D5788F !important;
+    color: white;
+    font-size: 1.5rem;
+}
+.mainDiv a{
+   text-decoration: none;
+   color: green;
+}
+.myFooter{
+    background-color: red !important;
+    color: white !important;
+}
